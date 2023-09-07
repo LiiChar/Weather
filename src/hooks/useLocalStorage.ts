@@ -1,6 +1,6 @@
 
 
-export default () => {
+const useLocationStorage = () => {
     const getItem = (key: string) => {
         const store = localStorage.getItem(key);
 
@@ -28,3 +28,5 @@ export default () => {
         removeItem
     }
 }
+
+export default useLocationStorage;

@@ -52,4 +52,6 @@ const WeatherSearch = React.memo(() => {
     );
 });
 
+WeatherSearch.displayName = 'WeatherSearch'
+
 export default WeatherSearch

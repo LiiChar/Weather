@@ -35,4 +35,6 @@ const WeatherElement: FC<IProps> = React.memo(({ props }) => {
     )
 });
 
+WeatherElement.displayName = 'WeatherElement';
+
 export default WeatherElement
