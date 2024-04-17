@@ -28,7 +28,7 @@
     "react-select": "^5.7.4",
     "sqlite3": "^5.1.6",
     "tailwindcss": "3.3.3",
-    "typescript": "5.2.2"
+    "typescript": "5.4.3"
   },
   "devDependencies": {
     "prisma": "^5.2.0"
