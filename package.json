@@ -18,7 +18,7 @@
     "axios": "^1.5.0",
     "bcrypt": "^5.1.1",
     "eslint": "8.48.0",
-    "eslint-config-next": "13.4.19",
+    "eslint-config-next": "15.0.0",
     "next": "13.4.19",
     "next13-context-platform": "^0.2.0",
     "postcss": "8.4.28",
