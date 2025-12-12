@@ -19,7 +19,7 @@
     "bcrypt": "^5.1.1",
     "eslint": "8.48.0",
     "eslint-config-next": "13.4.19",
-    "next": "13.4.19",
+    "next": "14.2.35",
     "next13-context-platform": "^0.2.0",
     "postcss": "8.4.28",
     "postcss-nesting": "^12.0.1",
